@@ -4,4 +4,4 @@
 #### - 1000 Monte Carlo Simulations
 #### - Sharpe Index
 
-##### I tried to explain the functions and results through comments inside the code.
+##### I tried to explain the functions (as much as possible) through comments inside the code.
