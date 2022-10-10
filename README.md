@@ -6,4 +6,6 @@ I upload DA exercises and projects here.
 
 - SQL
 - Tableau Visualizations
-- Python Codes
+- Python Codes:
+  - Web Scraping
+  - Data Analysis
