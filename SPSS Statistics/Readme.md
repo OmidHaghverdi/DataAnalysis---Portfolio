@@ -1,2 +1,1 @@
-SPSS Syntax
-By: Barton Poulson
+SPSS Syntax By Barton Poulson
